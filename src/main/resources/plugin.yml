@@ -1,0 +1,17 @@
+name: Nov_RPG
+version: '${project.version}'
+main: dikian.blue.Nov_RPG
+
+commands:
+  펫:
+  rl_pet:
+  펫관리:
+  스텟:
+  장비:
+  e:
+  돈:
+  ehs:
+  캐시:
+  zotl:
+  exchange:
+  npc:
